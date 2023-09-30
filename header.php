@@ -14,7 +14,7 @@
         <div class="container-fluid">
         <ul class="navbar-nav">
             <li class="nav-item">               
-                <a href="paginaPrincipalLogin.php" class="nav-link text-white">
+                <a href="paginaPrincipal.php" class="nav-link text-white">
                     <img src="./img/iconHome.png"><label>Home</label>
                 </a>
             </li>           
@@ -26,8 +26,11 @@
             <li class="nav-item">
                 <a href="listaProdutos.php" class="nav-link text-white"> 
                     <img src="./img/iconLoja.png"><label>Veja nossos produtos</label>
-                </a>               
+                </a>                 
             </li>
         </ul>
     </header>
+    <a href="login.html" class="nav-link text-white m-3"> 
+                    <img src="./img/iconUsuario.png"><label class="nav-item text-black">Clique aqui para sair</label>
+    </a>  
     
